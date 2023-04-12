@@ -4,3 +4,4 @@
 1. git push 
 2. git pull
 3. делаем домашку
+1.  ljltksdftv ljvfire
