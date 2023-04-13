@@ -2,3 +2,4 @@
 lesson3 GeekBrains
 
 Семинар 3 по Git
+удаленные репозитории и GitHub
